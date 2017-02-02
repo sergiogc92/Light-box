@@ -1,0 +1,35 @@
+To make the project we use:
+
+    1 Arduino Leonardo.
+
+    1 Strip board.
+
+    1 Microphone.
+
+    1 Terminal block.
+
+    24 White leds.
+
+    Some RGB LED stipt light. 
+
+    Wires.
+    2Hinges.
+    Some wood.
+
+If you need to amplify the output signal from the microphone:
+
+    1 2N2222A transistor.
+
+    2 110nF Capacitors.
+
+    2 10k Resistors.
+
+    1 100k Potentiometer.
+
+If you need to use a voltage regulator:
+
+    1 7805 Voltage regulator.
+
+    1 330nF Capacitor.
+
+    1 110nF Capacitor.
